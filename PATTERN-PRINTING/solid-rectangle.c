@@ -1,0 +1,24 @@
+#include <stdio.h>
+/*
+*****
+*****
+*****
+*/
+int main () {
+    // printf("*****\n*****\n*****");
+
+    int rows, cols;
+    printf("Enter number of rows: ");
+    scanf("%d", &rows);
+    printf("Enter number of columns:");
+    scanf("%d", &cols);
+
+    for (int j=1; j <= rows; j++) {
+        for (int i = 1; i <= cols; i++) {
+            printf("*");
+        }
+        printf("\n");
+    }
+
+return 0;
+}
