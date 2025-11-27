@@ -1,11 +1,9 @@
 #include <stdio.h>
-/*
-*****
-*****
-*****
-*/
+// *****
+// *****
+// *****
 int main () {
-    // printf("*****\n*****\n*****");
+    // printf("*****\n*****\n*****"); // hardcoded approach
 
     int rows, cols;
     printf("Enter number of rows: ");
