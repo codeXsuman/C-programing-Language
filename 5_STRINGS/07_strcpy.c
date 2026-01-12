@@ -4,5 +4,5 @@ int main () {
     char newStr[] = "newStr";
     strcpy(newStr, oldStr);
     puts(newStr); // prints oldStr
-    return 0; 
+    return 0;
 }
