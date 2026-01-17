@@ -1,0 +1,3 @@
+Name is : suman
+Age is : 19
+CGPA is : 8.80
